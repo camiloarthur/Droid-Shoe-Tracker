@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Droid Shoe Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="shoe_name">Enter shoe name</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="initial_mileage">Initial</string>
+    <string name="initial_mileage_label">Enter the initial mileage</string>
+	<string name="shoe_name_label">Enter the Shoe name</string>
+</resources>
